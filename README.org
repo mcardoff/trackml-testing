@@ -1,13 +1,15 @@
 #+TITLE:Kaggle Dataset Investigation
 * Latest Requirements
-Package         Version
---------------- -------
-numpy           1.25.2
-pandas          2.0.3
-pip             23.2.1
-python-dateutil 2.8.2
-pytz            2023.3
-setuptools      65.5.0
-six             1.16.0
-trackml         3
-tzdata          2023.3
+|-----------------+---------|
+| Package         | Version |
+|-----------------+---------|
+| numpy           |  1.25.2 |
+| pandas          |   2.0.3 |
+| pip             |  23.2.1 |
+| python-dateutil |   2.8.2 |
+| pytz            |  2023.3 |
+| setuptools      |  65.5.0 |
+| six             |  1.16.0 |
+| trackml         |       3 |
+| tzdata          |  2023.3 |
+|-----------------+---------|
