@@ -1,6 +1,8 @@
 #+TITLE:Kaggle Dataset Investigation
-* What is needed onnn our end
-- Place dataset in `./input`
+* What is needed on your end
+- Place dataset in =./input=
+- Install dependencies (full list below)
+  - Most can be installed via pip, except for =trackml=
 * Latest Requirements
 |-----------------+---------|
 | Package         | Version |
