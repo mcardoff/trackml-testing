@@ -1,5 +1,5 @@
 #+TITLE:Kaggle Dataset Investigation
-* What is needed
+* What is needed onnn our end
 - Place dataset in `./input`
 * Latest Requirements
 |-----------------+---------|
