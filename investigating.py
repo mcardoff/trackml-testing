@@ -12,6 +12,3 @@ volume_id_8 = hits[hits["volume_id"] == 8]
 ## plotly code, opens in browser
 fig = px.scatter_3d(volume_id_8, x=volume_id_8.x, y=volume_id_8.y, z=volume_id_8.z)
 fig.show()
-
-
-# print(type(hits))
